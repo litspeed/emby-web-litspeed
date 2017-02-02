@@ -19,7 +19,7 @@ This file is used to display information about your add-on in places such as the
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://github.com/litspeed/emby-web-litspeed/package.json
+Install into the app by installing a plugin from a url. The url is: https://litspeed.github.io/emby-web-litspeed/package.json
 
 # Local Testing
 
