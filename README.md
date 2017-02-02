@@ -1,4 +1,4 @@
-# emby-web-defaultskin
+# emby-web-litspeed
 
 This default skin for Emby Theater. To create your own skin, follow these steps:
 
@@ -19,7 +19,7 @@ This file is used to display information about your add-on in places such as the
 
 # Installation
 
-Install into the app by installing a plugin from a url. The url is: http://mediabrowser.github.io/emby-web-defaultskin/package.json
+Install into the app by installing a plugin from a url. The url is: http://github.com/litspeed/emby-web-litspeed/package.json
 
 # Local Testing
 
