@@ -7,7 +7,8 @@ define(['cardBuilder', 'emby-itemscontainer'], function (cardBuilder) {
 
             ParentId: parentId,
             EnableImageTypes: "Primary,Backdrop,Thumb",
-            SortBy: 'SortName'
+            SortBy: 'DateCreaed'
+            SortOrder: "Descending".
 
         }).then(function (result) {
 
