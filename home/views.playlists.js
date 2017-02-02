@@ -7,7 +7,8 @@ define(['cardBuilder', 'emby-itemscontainer'], function (cardBuilder) {
 
             ParentId: parentId,
             EnableImageTypes: "Primary,Backdrop,Thumb",
-            SortBy: 'SortName'
+            SortBy: 'DateCreated',
+            SortOrder: 'Descending'
         };
 
         return Emby.Models.playlists(options).then(function (result) {
