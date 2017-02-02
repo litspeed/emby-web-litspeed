@@ -4,7 +4,7 @@
     "version": "0.1.0",
     "description": "The litspeed Emby skin.",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/litspeed/emby-web-litspeed",
+    "homepage": "https://litspeed.github.io/emby-web-litspeed",
     "thumb": "",
     "backdrop": ""
 }
