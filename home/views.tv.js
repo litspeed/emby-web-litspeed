@@ -46,7 +46,7 @@ define(['./spotlight', 'focusManager', 'cardBuilder', './../skininfo', 'emby-ite
             Fields: "PrimaryImageAspectRatio",
             ImageTypeLimit: 1,
             Limit: 18,
-            ParentId: parentId,
+0            ParentId: parentId,
             UserId: apiClient.getCurrentUserId()
         };
 
@@ -70,7 +70,7 @@ define(['./spotlight', 'focusManager', 'cardBuilder', './../skininfo', 'emby-ite
         var options = {
 
             IncludeItemTypes: "Episode",
-            Limit: 12,
+            Limit: 120,
             Fields: "PrimaryImageAspectRatio",
             ParentId: parentId,
             ImageTypeLimit: 1,
