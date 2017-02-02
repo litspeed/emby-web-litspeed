@@ -46,7 +46,7 @@ define(['./spotlight', 'focusManager', 'cardBuilder', './../skininfo', 'emby-ite
             Fields: "PrimaryImageAspectRatio",
             ImageTypeLimit: 1,
             Limit: 18,
-0            ParentId: parentId,
+            ParentId: parentId,
             UserId: apiClient.getCurrentUserId()
         };
 
