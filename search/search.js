@@ -86,7 +86,7 @@ define(['loading', 'alphaPicker', 'scroller', './../components/focushandler', 'c
                 IncludeGenres: false,
                 IncludeStudios: false,
                 IncludeArtists: false,
-                IncludeItemTypes: "Movie,Series"
+                IncludeItemTypes: "Movie,Series,Episodes"
 
             }, '.movieResults');
 
