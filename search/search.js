@@ -48,7 +48,6 @@ define(['loading', 'alphaPicker', 'scroller', './../components/focushandler', 'c
         var self = this;
 
         function onAlphaValueClicked(e) {
-
             var value = e.detail.value;
 
             var txtSearch = view.querySelector('.txtSearch');
@@ -86,7 +85,7 @@ define(['loading', 'alphaPicker', 'scroller', './../components/focushandler', 'c
                 IncludeGenres: false,
                 IncludeStudios: false,
                 IncludeArtists: false,
-                IncludeItemTypes: "Movie,Series,Episodes"
+                IncludeItemTypes: "Movie,Series,Episode"
 
             }, '.movieResults');
 
