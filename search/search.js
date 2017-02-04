@@ -180,7 +180,7 @@ define(['loading', 'alphaPicker', 'scroller', './../components/focushandler', 'c
             cardOptions.sectionTitleTagName = 'h2';
             cardOptions.scalable = true;
             cardOptions.overlayText = true;
-
+            cardOptions.showTitle = true;
             cardOptions.widths = {
                 portrait: 340,
                 thumb: 500,
